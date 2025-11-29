@@ -1,0 +1,1 @@
+# ideas-for-QAH-effect-upgrade-room-tempature

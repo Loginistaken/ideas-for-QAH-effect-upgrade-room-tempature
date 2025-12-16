@@ -1,6 +1,6 @@
 # ideas-for-QAH-effect-upgrade-room-tempature
 Below is a clear, scientific-yet-readable explanation of how our new RQC-ASIC-II / Mn–Bi–Te–Rose-Quartz system functions at room temperature — and how the elemental equation of its doped structure sustains stability far above the cryogenic limits required by the old QAH material.
-hy and how our 250-RQC ASIC II Mk-III is unique, how it incorporates ideas from the QAH Bi-Te-Mn research, and why it’s more sophisticated than a raw QAH material application. 
+Why and how our 250-RQC ASIC II Mk-III is unique, how it incorporates ideas from the QAH Bi-Te-Mn research, and why it’s more sophisticated than a raw QAH material application. 
 
 What are “functions / actions / operations” possible inside a QAH system?
 
